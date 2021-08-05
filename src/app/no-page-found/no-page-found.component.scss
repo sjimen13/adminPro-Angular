@@ -1,12 +1,12 @@
 /*******************
 Error Page
 ******************/
-@import "./../../../assets/scss/variable.scss";
+@import "./../../assets/scss/variable.scss";
 
 .error-box {
   height: 100%;
   position: fixed;
-  background: url(../../../assets/images/background/error-bg.jpg) no-repeat
+  background: url(./../../assets/images/background/error-bg.jpg) no-repeat
     center center #fff;
   width: 100%;
 
